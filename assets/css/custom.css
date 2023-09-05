@@ -13,3 +13,12 @@
   font-size: xx-small;
   text-align: center !important;
 }
+.flags {
+  max-width: 20%;
+}
+.languages-bg {
+  background: #fafde2;
+}
+/* .languages-text {
+  font-size: 10px !important;
+} */
