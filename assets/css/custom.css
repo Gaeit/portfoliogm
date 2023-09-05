@@ -1,8 +1,15 @@
 .delete {
   color: #040b14 !important;
+  font-size: xx-small;
 }
 
 .disclaimer-declaration {
   font-size: xx-small;
   color: #149ddd;
+}
+
+.disclaimer {
+  color: #ffffff !important;
+  font-size: xx-small;
+  text-align: center !important;
 }
