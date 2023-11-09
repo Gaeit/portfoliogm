@@ -1,0 +1,16 @@
+FOR WORDPRESS
+
+User-agent: *
+Disallow: /wp-admin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: https://searchfacts.com/sitemap.xml
+
+
+IN GENERAL
+
+Disallow: /topsy/
+Disallow: /crets/
+Disallow: /hidden/file.html
+
+Sitemap: https://searchfacts.com/sitemap.xml
